@@ -1,0 +1,17 @@
+body{
+    background-color: #114906;
+}
+
+header{
+    margin-bottom: 50px;
+}
+
+.titulo-depoimento{
+    color: #ffb3d6;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.desc-depoimento{
+    color: #ffb3d6;
+}
